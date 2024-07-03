@@ -1,7 +1,7 @@
 # Valentina Ciorescu
 Contacts: vciorescu@yahoo.com
 
-With 13 years of experience as a math and coding teacher, I have dedicated my career to fostering a deep understanding of complex concepts and nurturing the next generation of tech-savvy professionals.
+- With 13 years of experience as a math and coding teacher, I have dedicated my career to fostering a deep understanding of complex concepts and nurturing the next generation of tech-savvy professionals.
 Over the last years, I transitioned into the dynamic field of full-stack development, combining my educational expertise with hands-on experience in modern web technologies.
 
 **Key Highlights:**
@@ -11,6 +11,7 @@ Over the last years, I transitioned into the dynamic field of full-stack develop
 I am passionate about leveraging my dual expertise in education and development to build innovative solutions that enhance learning experiences and drive technological advancement. My goal is to continue growing as a full-stack developer, contributing to projects that make a meaningful impact.
 
 Let’s connect if you are looking for a professional who is passionate about education and technology, driven by a desire to create impactful digital experiences, and committed to continuous learning and improvement.
+
 ```
 const pivotIndex = function(nums) {
    let totalSum = 0
@@ -27,3 +28,6 @@ const pivotIndex = function(nums) {
    return -1;
 };
 ```
+- **Study:** State University of Moldova
+       Degree in Math and Computer Science
+- **English:** read/speak/understand fluent 
